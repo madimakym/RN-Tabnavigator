@@ -11,4 +11,4 @@
 5- Run expo start
 
 # Screen:
-<img src="/_screenshots/screen.png" width="300" height="100%">   <img src="/_screenshots/ScreenShot_2.png" width="300" height="100%">
+<img src="/_screenshots/screen.png" width="300" height="100%">
